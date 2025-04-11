@@ -1,5 +1,5 @@
 - 🖖 Olá, eu sou @JcMattus
-- 🖥️🖱️ Analista de Infraestrutura e Banco de Dados
+- 🖥️🖱️ Database Administrator
 - 🚀 DEV em Construção! 
 - ✝️ Cristão 
 - 💍 Casado @deisedoria
